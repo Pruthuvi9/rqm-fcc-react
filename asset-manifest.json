@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rqm-fcc-react/static/css/main.c2cab247.css",
+    "main.js": "/rqm-fcc-react/static/js/main.02ecb100.js",
+    "index.html": "/rqm-fcc-react/index.html",
+    "main.c2cab247.css.map": "/rqm-fcc-react/static/css/main.c2cab247.css.map",
+    "main.02ecb100.js.map": "/rqm-fcc-react/static/js/main.02ecb100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.02ecb100.js"
+  ]
+}
